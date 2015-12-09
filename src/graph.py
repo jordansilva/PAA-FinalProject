@@ -23,16 +23,29 @@ class Vertice:
     self.lat         = item['lat']
     self.lng         = item['lng']
     self.weight      = item['weight']
-    self.start_hour  = item['hours']['start']
-    self.end_hour    = item['hours']['end']
+
+    start            = item['hours']['start'].split(':')
+    self.start_hour  = timedelta(hours=int(start[0]), minutes=int(start[1]))
+
+    end              = item['hours']['end'].split(':')
+    self.end_hour    = timedelta(hours=int(end[0]), minutes=int(end[1]))
     self.checkins    = item['checkins']
     self.rating      = 0
     if 'rating' in item:
       self.rating    = item['rating']
     self.time_spend  = time_spend
 
+class Edge:
 
-class TravelCity:
+  def __init__(self, item):
+    self.id = item['from'] + ';' + item['to']
+    self.point1         = item['from']
+    self.point2         = item['to']
+    self.distance       = item['distance']
+    self.driving_time   = item['driving_time']
+
+
+class Graph:
 
   def __init__(self, folder, output):
     self.read_folder = folder
@@ -118,18 +131,30 @@ class TravelCity:
     
     return
 
+  def startEdges(self):
+    self.edges = []
+    for d in self.distances:
+      self.edges.append(Edge(self.distances[d]))
+    
+    return
+
   def start(self):
     self.initVenues()
     self.initCategories()
     self.initDistances()
 
+    #start graph
     self.startVertices()
-    print len(self.vertices)
+    self.startEdges()
 
+    #reducing memory usage
+    self.venues = ''
+    self.distances = ''
+    self.categories = ''
 
 if __name__ == '__main__':
   read_folder = '../dataset/run/'
   output_folder = '../results/'
 
-  travel = TravelCity(folder=read_folder, output=output_folder)
+  travel = Graph(folder=read_folder, output=output_folder)
   travel.start()
