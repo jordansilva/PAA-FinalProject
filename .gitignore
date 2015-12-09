@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 
+# Dataset Folders
+dataset/original/
+dataset/output/
+
 # C extensions
 *.so
 

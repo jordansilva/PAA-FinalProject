@@ -1,0 +1,466 @@
+Office;60
+Residential Building (Apartment / Condo);60
+Building;60
+Brazilian Restaurant;45
+Bar;120
+Bakery;20
+Street;20
+Salon / Barbershop;60
+Bank;20
+Restaurant;45
+Church;30
+Gym;60
+Coworking Space;120
+Automotive Shop;15
+Bus Line;15
+Neighborhood;20
+Pizza Place;45
+General Entertainment;60
+Medical Center;60
+School;120
+Gas Station / Garage;15
+Gym / Fitness Center;60
+Doctor's Office;60
+Tech Startup;60
+Drugstore / Pharmacy;25
+Burger Joint;45
+Snack Place;30
+Student Center;60
+Government Building;30
+Plaza;45
+Ice Cream Shop;30
+BBQ Joint;60
+Supermarket;60
+Factory;120
+Café;30
+Event Space;120
+College Classroom;120
+;30
+Clothing Store;60
+Hotel;120
+Professional & Other Places;60
+High School;120
+Hospital;120
+Miscellaneous Shop;60
+Parking;10
+General College & University;60
+College Lab;120
+Dessert Shop;45
+Dentist's Office;120
+College Academic Building;120
+Brewery;60
+Electronics Store;60
+Bus Station;10
+Mall;120
+Car Dealership;60
+Housing Development;60
+Cosmetics Shop;60
+Hardware Store;60
+University;120
+Fast Food Restaurant;30
+Sandwich Place;30
+Italian Restaurant;45
+Pet Store;60
+Grocery Store;45
+Other Great Outdoors;60
+Food Truck;30
+Department Store;120
+Diner;45
+Soccer Stadium;120
+Paper / Office Supplies Store;60
+Spa;120
+Post Office;60
+Furniture / Home Store;120
+Juice Bar;60
+Bookstore;60
+Coffee Shop;30
+Steakhouse;60
+Nightclub;240
+Bus Stop;15
+Soccer Field;120
+Women's Store;60
+Sporting Goods Shop;60
+Police Station;30
+Fruit & Vegetable Store;30
+Design Studio;60
+College Library;60
+College Cafeteria;30
+Laboratory;120
+General Travel;60
+College Administrative Building;60
+Acai House;45
+Music Venue;60
+Athletics & Sports;60
+Nail Salon;60
+Language School;60
+Breakfast Spot;45
+Mobile Phone Shop;30
+Japanese Restaurant;45
+Military Base;240
+Tattoo Parlor;105
+Art Gallery;90
+Courthouse;90
+Real Estate Office;25
+Martial Arts Dojo;120
+Trade School;110
+Gift Shop;45
+Convenience Store;65
+Shoe Store;65
+Dive Bar;55
+Hot Dog Joint;60
+Fraternity House;45
+Elementary School;60
+Middle School;120
+Gymnastics Gym;65
+Driving School;60
+Beer Garden;50
+Park;25
+Spiritual Center;65
+Non-Profit;105
+Theater;55
+Food;110
+Water Park;110
+College Gym;35
+Men's Store;90
+City Hall;65
+Community College;45
+Sushi Restaurant;35
+Pub;70
+Deli / Bodega;120
+Road;25
+College Auditorium;65
+Boutique;85
+Market;35
+Arts & Crafts Store;40
+Dance Studio;100
+Travel Agency;40
+Chocolate Shop;120
+IT Services;70
+Mineiro Restaurant;80
+Pool;105
+Veterinarian;95
+Bike Shop;90
+Gastropub;90
+Bridge;20
+Car Wash;60
+Other Nightlife;35
+College Quad;60
+Video Store;120
+Temple;70
+Arcade;75
+Convention Center;115
+College Engineering Building;20
+Seafood Restaurant;55
+Chinese Restaurant;85
+Candy Store;60
+Playground;65
+Law School;90
+Meeting Room;40
+College Science Building;95
+Butcher;85
+Public Art;30
+Farmers Market;75
+Accessories Store;35
+Scenic Lookout;85
+Food & Drink Shop;120
+Flower Shop;25
+College & University;35
+Rock Club;50
+Conference Room;45
+Historic Site;65
+Jewelry Store;65
+Toy / Game Store;105
+Lottery Retailer;120
+Photography Lab;75
+Vegetarian / Vegan Restaurant;105
+Emergency Room;75
+Medical School;30
+Yoga Studio;105
+Track;50
+Laundry Service;35
+Middle Eastern Restaurant;110
+Fried Chicken Joint;30
+Advertising Agency;20
+Strip Club;45
+Hostel;75
+Rental Car Location;55
+Sports Bar;105
+Motel;65
+Buffet;100
+Auditorium;55
+Concert Hall;105
+Music School;100
+Airport Terminal;90
+Tea Room;60
+Lounge;35
+College Rec Center;70
+Comedy Club;90
+Library;95
+American Restaurant;100
+French Restaurant;25
+Nursery School;90
+Motorcycle Shop;115
+Asian Restaurant;45
+College Arts Building;60
+Assisted Living;115
+Music Store;100
+Financial or Legal Service;100
+Health Food Store;40
+Gym Pool;85
+Newsstand;55
+Food Court;50
+Light Rail Station;40
+Cocktail Bar;75
+Garden;65
+Theme Park;35
+Animal Shelter;110
+Wine Shop;55
+Kids Store;30
+College Technology Building;110
+Salad Place;45
+Liquor Store;95
+Track Stadium;30
+College Communications Building;55
+Cupcake Shop;45
+Shop & Service;95
+Lawyer;70
+Pool Hall;75
+Metro Station;70
+Churrascaria;55
+Record Shop;45
+Multiplex;110
+Museum;45
+Arts & Entertainment;75
+College Theater;85
+College Bookstore;20
+Field;45
+Lingerie Store;115
+Tennis Court;35
+Trail;110
+Radio Station;35
+Fair;110
+Campaign Office;50
+Auto Garage;50
+Dog Run;90
+Bed & Breakfast;20
+Airport;20
+Performing Arts Venue;30
+Flea Market;40
+Movie Theater;90
+Gourmet Shop;50
+Big Box Store;55
+Hookah Bar;50
+Gaming Cafe;65
+TV Station;80
+College Residence Hall;110
+Capitol Building;95
+Latin American Restaurant;40
+Optical Shop;85
+Mountain;65
+Hobby Shop;100
+Creperie;50
+Pastelaria;30
+Video Game Store;55
+Storage Facility;65
+Distribution Center;60
+Stadium;20
+Cemetery;95
+Lake;30
+Bridal Shop;50
+Skate Park;65
+College Soccer Field;65
+Frozen Yogurt;55
+Health & Beauty Service;120
+Print Shop;95
+Racetrack;20
+Taxi;80
+Cafeteria;90
+German Restaurant;40
+Embassy / Consulate;115
+Plane;95
+Winery;45
+Indie Movie Theater;65
+Campground;120
+Fire Station;70
+Warehouse;45
+Wine Bar;25
+Karaoke Bar;30
+Airport Gate;50
+Other Event;50
+Nightlife Spot;35
+Mac & Cheese Joint;40
+Argentinian Restaurant;20
+Bistro;65
+Bike Rental / Bike Share;20
+Mexican Restaurant;80
+Street Art;60
+Tennis Stadium;20
+Art Museum;80
+Internet Cafe;95
+Bagel Shop;85
+Portuguese Restaurant;100
+Molecular Gastronomy Restaurant;75
+Farm;85
+Fish & Chips Shop;110
+Camera Store;20
+Gay Bar;20
+Cheese Shop;55
+Board Shop;45
+African Restaurant;75
+Empada House;30
+Distillery;50
+Cultural Center;45
+Business Service;90
+Sculpture Garden;65
+Private School;40
+Donut Shop;45
+Sorority House;40
+Travel & Transport;30
+Synagogue;115
+Pet Service;90
+Tourist Information Center;105
+Warehouse Store;40
+History Museum;35
+Indian Restaurant;40
+Zoo;60
+Rest Area;60
+Science Museum;55
+City;60
+Mediterranean Restaurant;100
+South American Restaurant;65
+Baiano Restaurant;35
+Jazz Club;50
+Basketball Court;65
+Travel Lounge;60
+Home (private);90
+Tapas Restaurant;110
+Funeral Home;30
+Pedestrian Plaza;110
+Stables;60
+Mental Health Office;110
+Salsa Club;95
+Resort;105
+Acupuncturist;30
+Tram Station;120
+Tailor Shop;105
+Wings Joint;60
+Noodle House;40
+Smoke Shop;60
+Tanning Salon;25
+Dumpling Restaurant;90
+Daycare;35
+Recording Studio;20
+Other Repair Shop;85
+Garden Center;120
+New American Restaurant;110
+Burrito Place;90
+Social Club;45
+Intersection;90
+Australian Restaurant;25
+Outdoors & Recreation;115
+Vineyard;105
+Betting Shop;105
+Falafel Restaurant;90
+Well;80
+Club House;50
+Event Service;105
+Hotel Bar;100
+Rock Climbing Spot;60
+Eye Doctor;80
+Cuban Restaurant;95
+Climbing Gym;40
+College History Building;60
+Whisky Bar;95
+Monument / Landmark;105
+Antique Shop;50
+Sports Club;25
+Speakeasy;105
+Arepa Restaurant;65
+Outlet Store;105
+Comfort Food Restaurant;85
+Festival;50
+Street Fair;25
+Laser Tag;115
+Preschool;70
+Town Hall;105
+Train Station;110
+Alternative Healer;110
+Indie Theater;20
+Dive Shop;65
+Caribbean Restaurant;45
+Circus;35
+Transportation Service;105
+Beach;80
+Taco Place;45
+Recreation Center;110
+Community Center;120
+Hot Spring;50
+Recruiting Agency;25
+Nature Preserve;65
+Credit Union;35
+Shrine;30
+Voting Booth;65
+Boat or Ferry;90
+Skating Rink;105
+Soup Place;40
+Airport Lounge;70
+Turkish Restaurant;45
+State;115
+Boarding House;120
+Theme Park Ride / Attraction;110
+Russian Restaurant;80
+Fabric Shop;20
+EV Charging Station;45
+Roller Rink;80
+Korean Restaurant;80
+Perfume Shop;100
+Cricket Ground;100
+Locksmith;100
+Platform;110
+College Track;65
+Adult Boutique;75
+Bowling Alley;25
+Ethiopian Restaurant;40
+Northern Brazilian Restaurant;50
+Harbor / Marina;20
+Prayer Room;20
+Bathing Area;100
+Shipping Store;35
+Botanical Garden;45
+Baseball Field;115
+Beer Store;120
+College Stadium;100
+River;70
+Eastern European Restaurant;60
+Southeastern Brazilian Restaurant;105
+Smoothie Shop;35
+Recycling Facility;45
+Tunnel;20
+Rafting;50
+Go Kart Track;65
+Country Dance Club;115
+Train;120
+Thrift / Vintage Store;90
+Football Stadium;120
+Circus School;40
+Massage Studio;60
+Prison;120
+Fish Market;75
+Gluten-free Restaurant;90
+Baseball Stadium;60
+Golf Course;120
+Basketball Stadium;105
+Music Festival;80
+Aquarium;110
+Island;50
+Belgian Restaurant;110
+Volcano;90
+Stationery Store;75
+Forest;65
+Volleyball Court;90
+Corporate Cafeteria;45
+College Math Building;25
+Paintball Field;115
+Leather Goods Store;55
+Construction & Landscaping;35
+Outdoor Sculpture;30
