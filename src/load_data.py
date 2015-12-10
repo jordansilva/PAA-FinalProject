@@ -17,13 +17,15 @@ from geopy.distance import vincenty
 from datetime import timedelta, time
 from operator import itemgetter
 
-class TravelCity:
+class LoadData:
 
 	def __init__(self, folder, output):
 		self.read_folder = folder
 		self.output_folder = output
-
-
+		#diligencias AIzaSyA_9Rrjw1b2rpI3PW-Bfd1dejZMKwYlHRY
+		#ufmg AIzaSyB1i5c7Iim3ykOmoJZ4y4TLTNbJxNI4tXY
+		#ufmg2 AIzaSyDo3ypu8Vj0NHDkG8igvpEF9Q08riqgnWY
+		self.key = 'AIzaSyDo3ypu8Vj0NHDkG8igvpEF9Q08riqgnWY'
 
 	def cropVenues(self):
 		self.venues = []
@@ -103,10 +105,10 @@ class TravelCity:
 		try:
 			for i in xrange(0, len(self.venues)):
 				place1 = self.venues[i]
-				for j in xrange(i+1,len(self.venues)): #i+1
+				for j in xrange(0,len(self.venues)): #i+1
 					place2 = self.venues[j]
 
-					if (place1['id'] + ';' + place2['id']) in processed:
+					if (place1['id'] + ';' + place2['id']) in processed or place1['id'] == place2['id']:
 						continue
 						
 					distance, driving_time = self.getTimeGoogleMaps(place1, place2)
@@ -133,14 +135,14 @@ class TravelCity:
 		p2 = (place2['lat'], place2['lng'])
 		return vincenty(p1, p2).meters
 
+
 	def getTimeGoogleMaps(self, place1, place2):
 		result = ''
 		try:
 			orig_coord = place1['lat'], place1['lng']
 			dest_coord = place2['lat'], place2['lng']
-			url = "https://maps.googleapis.com/maps/api/distancematrix/json?origins={0}&destinations={1}&mode=driving&language=en-EN&sensor=false&key=AIzaSyB1i5c7Iim3ykOmoJZ4y4TLTNbJxNI4tXY".format(str(orig_coord),str(dest_coord))
-			#diligencias AIzaSyA_9Rrjw1b2rpI3PW-Bfd1dejZMKwYlHRY
-			#ufmg AIzaSyB1i5c7Iim3ykOmoJZ4y4TLTNbJxNI4tXY
+			url = "https://maps.googleapis.com/maps/api/distancematrix/json?origins={0}&destinations={1}&mode=driving&language=en-EN&sensor=false&key={2}".format(str(orig_coord),str(dest_coord),self.key)
+			
 			result= simplejson.load(urllib.urlopen(url))
 
 			distance = result['rows'][0]['elements'][0]['distance']['value']
@@ -166,5 +168,5 @@ if __name__ == '__main__':
 	read_folder = '../dataset/run/'
 	output_folder = '../results/'
 
-	travel = TravelCity(folder=read_folder, output=output_folder)
-	travel.start()
+	loaddata = LoadData(folder=read_folder, output=output_folder)
+	loaddata.start()

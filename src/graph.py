@@ -33,7 +33,7 @@ class Vertice:
     self.rating      = 0
     if 'rating' in item:
       self.rating    = item['rating']
-    self.time_spend  = time_spend
+    self.time_spend  = timedelta(minutes=int(time_spend))
 
 class Edge:
 
@@ -112,16 +112,17 @@ class Graph:
     return self.categories[category]
 
   def getTimeTravel(self, place1, place2):
-    _id1 = '%s;%s' % (place1['id'], place2['id'])
-    _id2 = '%s;%s' % (place2['id'], place1['id'])
+    _id1 = '%s;%s' % (place1, place2)
+    _id2 = '%s;%s' % (place2, place1)
     
-    if _id1 in self.distances:
-      return self.distances[_id1]['driving_time']
-    elif _id2 in self.distances:
-      return self.distances[_id1]['driving_time']
+    if _id1 in self.edges:
+      return self.edges[_id1].driving_time
+    elif _id2 in self.edges:
+      return self.edges[_id2].driving_time
     else:
-      print place1['id']
-      print place2['id']
+      print self.edges[0]
+      print place1
+      print place2
       raise Exception('Driving Time not found!')
 
   def startVertices(self):
@@ -132,9 +133,10 @@ class Graph:
     return
 
   def startEdges(self):
-    self.edges = []
+    self.edges = {}
     for d in self.distances:
-      self.edges.append(Edge(self.distances[d]))
+      e = Edge(self.distances[d])
+      self.edges[e.id] = e
     
     return
 
