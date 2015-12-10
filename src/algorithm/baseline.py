@@ -19,15 +19,14 @@ class Baseline:
     
     self.lower_timespend = sys.maxint
     for v in self.graph.vertices:
-      if v.time_spend < self.lower_timespend:
-        self.lower_timespend = v.time_spend
+      minutes = (v.time_spend.total_seconds() / 60)
+      if minutes < self.lower_timespend:
+        self.lower_timespend = minutes
     self.lower_timespend = timedelta(minutes=int(self.lower_timespend))
-    
 
   def execute(self, period):
     # for v in self.graph.vertices:
     #   print '%.3f %s | %s %s %s | %s' % (v.weight, v.id, v.start_hour, v.end_hour, v.time_spend, v.name)
-    # return
 
     self.period = period
     self.solution = None
