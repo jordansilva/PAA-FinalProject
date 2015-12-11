@@ -30,6 +30,7 @@ class Baseline:
 
     self.period = period
     self.solution = None
+    self.all_nodes_alocated = False
 
     self.tree()
 
@@ -47,10 +48,18 @@ class Baseline:
     else:
       current_time = time
 
+    if (visited != None and len(visited) == len(self.graph.vertices)):
+      self.solution = (visited[-1], points, visited, time)
+      self.all_nodes_alocated = True
+      return
+
     #check current_time >= final
-    if current_time + self.lower_timespend <= self.period[1]:
+    if current_time + self.lower_timespend <= self.period[1] and self.all_nodes_alocated == False:
       for v in self.graph.vertices:
         places = []
+
+        if self.all_nodes_alocated:
+          break
 
         if visited != None:
           places.extend(visited)
@@ -107,12 +116,12 @@ class Baseline:
         #print '[ %s ] Driving Time' % driving_time
       
       print_time += driving_time
-      print '[ (%s) | %s ] %.3f %s | %s %s %s | %s' % (driving_time, print_time, p.weight, p.id, p.start_hour, p.end_hour, p.time_spend, p.name)
+      print '[ (%s) | %s ] %.3f %s | %s %s %s | %s' % (driving_time, print_time, p.weight, p.id.encode('utf8'), p.start_hour, p.end_hour, p.time_spend, p.name.encode('utf8'))
       print_time += p.time_spend
       current = p
 
     #printing
-    print 'Last POI: %s' % last_point.name
+    print 'Last POI: %s' % last_point.name.encode('utf8')
     print 'Total Points: %s' % points
     print 'Ending Time: %s' % last_time
     

@@ -25,7 +25,7 @@ class LoadData:
 		#diligencias AIzaSyA_9Rrjw1b2rpI3PW-Bfd1dejZMKwYlHRY
 		#ufmg AIzaSyB1i5c7Iim3ykOmoJZ4y4TLTNbJxNI4tXY
 		#ufmg2 AIzaSyDo3ypu8Vj0NHDkG8igvpEF9Q08riqgnWY
-		self.key = 'AIzaSyDo3ypu8Vj0NHDkG8igvpEF9Q08riqgnWY'
+		self.key = 'AIzaSyA_9Rrjw1b2rpI3PW-Bfd1dejZMKwYlHRY'
 
 	def cropVenues(self):
 		self.venues = []
