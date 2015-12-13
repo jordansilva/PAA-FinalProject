@@ -27,22 +27,24 @@ class Baseline:
   def execute(self, period):
     # for v in self.graph.vertices:
     #   print '%.3f %s | %s %s %s | %s' % (v.weight, v.id, v.start_hour, v.end_hour, v.time_spend, v.name)
-
+    self.count_r = 0
+    
     self.period = period
     self.solution = None
     self.all_nodes_alocated = False
-
     self.tree()
-
+    
     print '\n### Baseline ###'
     print '[ Start Hour ] %s' % self.period[0]
     print '[ Final Hour ] %s\n' % self.period[1]
 
-    self.print_solution(self.solution)
+    
+
+    #self.print_solution(self.solution)
+    print self.count_r
     return
 
   def tree(self, current = None, points = 0, visited = None, time = None):
-
     if time is None:
       current_time = self.period[0]
     else:
@@ -66,6 +68,8 @@ class Baseline:
 
         if v in places:
           continue
+
+        self.count_r += 1
 
         current_point = current
         max_price     = points

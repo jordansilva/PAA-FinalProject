@@ -1,0 +1,63 @@
+[ Graph loaded! ]
+[ V 10  E 9900 ]
+
+### Baseline ###
+[ Start Hour ] 8:00:00
+[ Final Hour ] 12:30:00
+
+Places (6)
+[ (0:00:00) | 8:00:00 ] 6.851 4b5445bff964a52027b627e3 | 0:00:00 23:59:00 0:30:00 | Cidade Administrativa Presidente Tancredo Neves
+[ (0:14:00) | 8:44:00 ] 6.868 4b69f01cf964a52025bd2be3 | 0:00:00 23:59:00 0:30:00 | Lagoa da Pampulha
+[ (0:19:00) | 9:33:00 ] 7.141 4b5ec87ff964a520909829e3 | 7:00:00 18:00:00 0:35:00 | Mercado Central
+[ (0:07:00) | 10:15:00 ] 5.319 4ba54bcdf964a52084f738e3 | 0:00:00 23:59:00 0:30:00 | Basílica Nossa Senhora de Lourdes
+[ (0:04:00) | 10:49:00 ] 7.255 4b6973f2f964a520eda22be3 | 0:00:00 23:59:00 0:45:00 | Praça da Liberdade
+[ (0:10:00) | 11:44:00 ] 5.577 4b7afdc6f964a5208f4a2fe3 | 0:00:00 23:59:00 0:45:00 | Praça da Bandeira
+Last POI: Praça da Bandeira
+Total Points: 39.011
+Ending Time: 12:29:00
+0.316668987274
+
+
+[ Graph loaded! ]
+[ V 20  E 9900 ]
+
+### Baseline ###
+[ Start Hour ] 8:00:00
+[ Final Hour ] 12:30:00
+
+Places (7)
+[ (0:00:00) | 8:00:00 ] 4.497 4bbe5b104e7bd13abfd49a7f | 0:00:00 23:59:00 0:20:00 | Rua do Amendoim
+[ (0:01:00) | 8:21:00 ] 5.764 4bdd677ed33f2d7facde8a3c | 8:00:00 17:00:00 0:25:00 | Parque das Mangabeiras
+[ (0:12:00) | 8:58:00 ] 7.255 4b6973f2f964a520eda22be3 | 0:00:00 23:59:00 0:45:00 | Praça da Liberdade
+[ (0:06:00) | 9:49:00 ] 7.141 4b5ec87ff964a520909829e3 | 7:00:00 18:00:00 0:35:00 | Mercado Central
+[ (0:07:00) | 10:31:00 ] 6.262 4baf5c0ef964a52022fa3be3 | 0:00:00 23:59:00 0:25:00 | Parque Municipal Américo Renné Giannetti
+[ (0:17:00) | 11:13:00 ] 6.868 4b69f01cf964a52025bd2be3 | 0:00:00 23:59:00 0:30:00 | Lagoa da Pampulha
+[ (0:16:00) | 11:59:00 ] 6.851 4b5445bff964a52027b627e3 | 0:00:00 23:59:00 0:30:00 | Cidade Administrativa Presidente Tancredo Neves
+Last POI: Cidade Administrativa Presidente Tancredo Neves
+Total Points: 44.638
+Ending Time: 12:29:00
+69.278539896
+
+
+
+[ Graph loaded! ]
+[ V 30  E 9900 ]
+
+### Baseline ###
+[ Start Hour ] 8:00:00
+[ Final Hour ] 12:30:00
+
+Places (7)
+[ (0:00:00) | 8:00:00 ] 7.141 4b5ec87ff964a520909829e3 | 7:00:00 18:00:00 0:35:00 | Mercado Central
+[ (0:04:00) | 8:39:00 ] 5.513 4c7196c60e8cbfb784f3fbda | 0:00:00 23:59:00 0:30:00 | Igreja São José
+[ (0:03:00) | 9:12:00 ] 6.178 4c95f40858d4b60c91cd3629 | 6:00:00 14:15:00 0:40:00 | Feira de Artes e Artesanato de Belo Horizonte (Feira Hippie)
+[ (0:02:00) | 9:54:00 ] 6.262 4baf5c0ef964a52022fa3be3 | 0:00:00 23:59:00 0:25:00 | Parque Municipal Américo Renné Giannetti
+[ (0:09:00) | 10:28:00 ] 6.356 4c30df227cc0c9b671fbed9a | 0:00:00 23:59:00 0:30:00 | Igreja Batista da Lagoinha
+[ (0:13:00) | 11:11:00 ] 6.868 4b69f01cf964a52025bd2be3 | 0:00:00 23:59:00 0:30:00 | Lagoa da Pampulha
+[ (0:16:00) | 11:57:00 ] 6.851 4b5445bff964a52027b627e3 | 0:00:00 23:59:00 0:30:00 | Cidade Administrativa Presidente Tancredo Neves
+Last POI: Cidade Administrativa Presidente Tancredo Neves
+Total Points: 45.169
+Ending Time: 12:27:00
+1436.84407115
+
+

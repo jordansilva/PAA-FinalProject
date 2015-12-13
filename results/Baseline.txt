@@ -1,0 +1,2 @@
+[ Graph loaded! ]
+[ V 10  E 9900 ]

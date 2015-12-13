@@ -1,0 +1,238 @@
+[ Graph loaded! ]
+[ V 10  E 9900 ]
+
+### Random Tour D ###
+[ Start Hour ] 8:00:00
+[ Final Hour ] 12:30:00
+
+Places (6)
+[ (0:00:00) | 8:00:00 ] 6.851 4b5445bff964a52027b627e3 | 0:00:00 23:59:00 0:30:00 | Cidade Administrativa Presidente Tancredo Neves
+[ (0:14:00) | 8:44:00 ] 6.868 4b69f01cf964a52025bd2be3 | 0:00:00 23:59:00 0:30:00 | Lagoa da Pampulha
+[ (0:19:00) | 9:33:00 ] 7.141 4b5ec87ff964a520909829e3 | 7:00:00 18:00:00 0:35:00 | Mercado Central
+[ (0:07:00) | 10:15:00 ] 5.319 4ba54bcdf964a52084f738e3 | 0:00:00 23:59:00 0:30:00 | Basílica Nossa Senhora de Lourdes
+[ (0:04:00) | 10:49:00 ] 7.255 4b6973f2f964a520eda22be3 | 0:00:00 23:59:00 0:45:00 | Praça da Liberdade
+[ (0:10:00) | 11:44:00 ] 5.577 4b7afdc6f964a5208f4a2fe3 | 0:00:00 23:59:00 0:45:00 | Praça da Bandeira
+Last POI: Praça da Bandeira
+Total Points: 39.011
+Ending Time: 12:29:00
+0.00994491577148
+
+
+
+[ Graph loaded! ]
+[ V 20  E 9900 ]
+
+### Random Tour D ###
+[ Start Hour ] 8:00:00
+[ Final Hour ] 12:30:00
+
+Places (7)
+[ (0:00:00) | 8:00:00 ] 4.497 4bbe5b104e7bd13abfd49a7f | 0:00:00 23:59:00 0:20:00 | Rua do Amendoim
+[ (0:01:00) | 8:21:00 ] 5.764 4bdd677ed33f2d7facde8a3c | 8:00:00 17:00:00 0:25:00 | Parque das Mangabeiras
+[ (0:11:00) | 8:57:00 ] 6.262 4baf5c0ef964a52022fa3be3 | 0:00:00 23:59:00 0:25:00 | Parque Municipal Américo Renné Giannetti
+[ (0:06:00) | 9:28:00 ] 5.319 4ba54bcdf964a52084f738e3 | 0:00:00 23:59:00 0:30:00 | Basílica Nossa Senhora de Lourdes
+[ (0:04:00) | 10:02:00 ] 7.255 4b6973f2f964a520eda22be3 | 0:00:00 23:59:00 0:45:00 | Praça da Liberdade
+[ (0:06:00) | 10:53:00 ] 7.141 4b5ec87ff964a520909829e3 | 7:00:00 18:00:00 0:35:00 | Mercado Central
+[ (0:20:00) | 11:48:00 ] 6.868 4b69f01cf964a52025bd2be3 | 0:00:00 23:59:00 0:30:00 | Lagoa da Pampulha
+Last POI: Lagoa da Pampulha
+Total Points: 43.106
+Ending Time: 12:18:00
+0.0722939968109
+
+
+
+[ Graph loaded! ]
+[ V 30  E 9900 ]
+
+### Random Tour D ###
+[ Start Hour ] 8:00:00
+[ Final Hour ] 12:30:00
+
+Places (7)
+[ (0:00:00) | 8:00:00 ] 4.497 4bbe5b104e7bd13abfd49a7f | 0:00:00 23:59:00 0:20:00 | Rua do Amendoim
+[ (0:01:00) | 8:21:00 ] 5.764 4bdd677ed33f2d7facde8a3c | 8:00:00 17:00:00 0:25:00 | Parque das Mangabeiras
+[ (0:11:00) | 8:57:00 ] 6.262 4baf5c0ef964a52022fa3be3 | 0:00:00 23:59:00 0:25:00 | Parque Municipal Américo Renné Giannetti
+[ (0:06:00) | 9:28:00 ] 5.319 4ba54bcdf964a52084f738e3 | 0:00:00 23:59:00 0:30:00 | Basílica Nossa Senhora de Lourdes
+[ (0:06:00) | 10:04:00 ] 7.141 4b5ec87ff964a520909829e3 | 7:00:00 18:00:00 0:35:00 | Mercado Central
+[ (0:11:00) | 10:50:00 ] 6.356 4c30df227cc0c9b671fbed9a | 0:00:00 23:59:00 0:30:00 | Igreja Batista da Lagoinha
+[ (0:13:00) | 11:33:00 ] 6.868 4b69f01cf964a52025bd2be3 | 0:00:00 23:59:00 0:30:00 | Lagoa da Pampulha
+Last POI: Lagoa da Pampulha
+Total Points: 42.207
+Ending Time: 12:03:00
+0.168184995651
+
+
+
+[ Graph loaded! ]
+[ V 40  E 9900 ]
+
+### Random Tour D ###
+[ Start Hour ] 8:00:00
+[ Final Hour ] 12:30:00
+
+Places (8)
+[ (0:00:00) | 8:00:00 ] 4.889 4b0fcf66f964a520206523e3 | 0:00:00 23:59:00 0:20:00 | Savassi
+[ (0:07:00) | 8:27:00 ] 6.262 4baf5c0ef964a52022fa3be3 | 0:00:00 23:59:00 0:25:00 | Parque Municipal Américo Renné Giannetti
+[ (0:05:00) | 8:57:00 ] 4.737 4b5a3ad1f964a520fdb528e3 | 0:00:00 23:59:00 0:10:00 | Terminal Rodoviário Governador Israel Pinheiro
+[ (0:08:00) | 9:15:00 ] 6.356 4c30df227cc0c9b671fbed9a | 0:00:00 23:59:00 0:30:00 | Igreja Batista da Lagoinha
+[ (0:12:00) | 9:57:00 ] 5.513 4c7196c60e8cbfb784f3fbda | 0:00:00 23:59:00 0:30:00 | Igreja São José
+[ (0:04:00) | 10:31:00 ] 5.319 4ba54bcdf964a52084f738e3 | 0:00:00 23:59:00 0:30:00 | Basílica Nossa Senhora de Lourdes
+[ (0:13:00) | 11:14:00 ] 5.764 4bdd677ed33f2d7facde8a3c | 8:00:00 17:00:00 0:25:00 | Parque das Mangabeiras
+[ (0:02:00) | 11:41:00 ] 6.496 4bdc73bbc79cc928b79b86e9 | 0:00:00 23:59:00 0:45:00 | Praça do Papa (Governador Israel Pinheiro)
+Last POI: Praça do Papa (Governador Israel Pinheiro)
+Total Points: 45.336
+Ending Time: 12:26:00
+0.437512159348
+
+
+
+[ Graph loaded! ]
+[ V 50  E 9900 ]
+
+### Random Tour D ###
+[ Start Hour ] 8:00:00
+[ Final Hour ] 12:30:00
+
+Places (8)
+[ (0:00:00) | 8:00:00 ] 4.889 4b0fcf66f964a520206523e3 | 0:00:00 23:59:00 0:20:00 | Savassi
+[ (0:10:00) | 8:30:00 ] 4.719 4ee94d2d02d5d0dbe4729dc8 | 0:00:00 23:59:00 0:20:00 | Centro
+[ (0:07:00) | 8:57:00 ] 6.262 4baf5c0ef964a52022fa3be3 | 0:00:00 23:59:00 0:25:00 | Parque Municipal Américo Renné Giannetti
+[ (0:05:00) | 9:27:00 ] 4.737 4b5a3ad1f964a520fdb528e3 | 0:00:00 23:59:00 0:10:00 | Terminal Rodoviário Governador Israel Pinheiro
+[ (0:08:00) | 9:45:00 ] 6.356 4c30df227cc0c9b671fbed9a | 0:00:00 23:59:00 0:30:00 | Igreja Batista da Lagoinha
+[ (0:13:00) | 10:28:00 ] 4.691 4b5e072ff964a520dd7929e3 | 0:00:00 23:59:00 0:20:00 | Aeroporto de Belo Horizonte / Pampulha - Carlos Drummond de Andrade (PLU)
+[ (0:06:00) | 10:54:00 ] 6.868 4b69f01cf964a52025bd2be3 | 0:00:00 23:59:00 0:30:00 | Lagoa da Pampulha
+[ (0:16:00) | 11:40:00 ] 6.851 4b5445bff964a52027b627e3 | 0:00:00 23:59:00 0:30:00 | Cidade Administrativa Presidente Tancredo Neves
+Last POI: Cidade Administrativa Presidente Tancredo Neves
+Total Points: 45.373
+Ending Time: 12:10:00
+0.6870200634
+
+
+
+[ Graph loaded! ]
+[ V 60  E 9900 ]
+
+### Random Tour D ###
+[ Start Hour ] 8:00:00
+[ Final Hour ] 12:30:00
+
+Places (10)
+[ (0:00:00) | 8:00:00 ] 4.889 4b0fcf66f964a520206523e3 | 0:00:00 23:59:00 0:20:00 | Savassi
+[ (0:07:00) | 8:27:00 ] 4.476 4cb58c28589f236a6cc9303d | 0:00:00 23:59:00 0:20:00 | Lourdes
+[ (0:07:00) | 8:54:00 ] 4.719 4ee94d2d02d5d0dbe4729dc8 | 0:00:00 23:59:00 0:20:00 | Centro
+[ (0:07:00) | 9:21:00 ] 4.737 4b5a3ad1f964a520fdb528e3 | 0:00:00 23:59:00 0:10:00 | Terminal Rodoviário Governador Israel Pinheiro
+[ (0:08:00) | 9:39:00 ] 4.432 4d0387a137036dcb7d8d0afb | 0:00:00 23:59:00 0:20:00 | Floresta
+[ (0:07:00) | 10:06:00 ] 4.375 4d263437a813224be3ebefb1 | 0:00:00 23:59:00 0:20:00 | Sagrada Família
+[ (0:06:00) | 10:32:00 ] 4.341 4e092aa7ae60a90eabd38b71 | 0:00:00 23:59:00 0:20:00 | Cidade Nova
+[ (0:15:00) | 11:07:00 ] 4.691 4b5e072ff964a520dd7929e3 | 0:00:00 23:59:00 0:20:00 | Aeroporto de Belo Horizonte / Pampulha - Carlos Drummond de Andrade (PLU)
+[ (0:06:00) | 11:33:00 ] 4.444 5040c8bbe4b0b17447b54fbc | 0:00:00 23:59:00 0:20:00 | Pampulha
+[ (0:03:00) | 11:56:00 ] 6.868 4b69f01cf964a52025bd2be3 | 0:00:00 23:59:00 0:30:00 | Lagoa da Pampulha
+Last POI: Lagoa da Pampulha
+Total Points: 47.972
+Ending Time: 12:26:00
+1.34183311462
+
+
+
+[ Graph loaded! ]
+[ V 70  E 9900 ]
+
+### Random Tour D ###
+[ Start Hour ] 8:00:00
+[ Final Hour ] 12:30:00
+
+Places (10)
+[ (0:00:00) | 8:00:00 ] 4.737 4b5a3ad1f964a520fdb528e3 | 0:00:00 23:59:00 0:10:00 | Terminal Rodoviário Governador Israel Pinheiro
+[ (0:08:00) | 8:18:00 ] 4.359 4da89d6b93a021ab13ce2495 | 0:00:00 23:59:00 0:20:00 | Prado
+[ (0:09:00) | 8:47:00 ] 4.318 4d434a2c1925721e2ac591dd | 0:00:00 23:59:00 0:20:00 | Gutierrez
+[ (0:09:00) | 9:16:00 ] 4.476 4cb58c28589f236a6cc9303d | 0:00:00 23:59:00 0:20:00 | Lourdes
+[ (0:07:00) | 9:43:00 ] 4.719 4ee94d2d02d5d0dbe4729dc8 | 0:00:00 23:59:00 0:20:00 | Centro
+[ (0:08:00) | 10:11:00 ] 4.375 4d263437a813224be3ebefb1 | 0:00:00 23:59:00 0:20:00 | Sagrada Família
+[ (0:06:00) | 10:37:00 ] 4.341 4e092aa7ae60a90eabd38b71 | 0:00:00 23:59:00 0:20:00 | Cidade Nova
+[ (0:15:00) | 11:12:00 ] 4.691 4b5e072ff964a520dd7929e3 | 0:00:00 23:59:00 0:20:00 | Aeroporto de Belo Horizonte / Pampulha - Carlos Drummond de Andrade (PLU)
+[ (0:06:00) | 11:38:00 ] 6.868 4b69f01cf964a52025bd2be3 | 0:00:00 23:59:00 0:30:00 | Lagoa da Pampulha
+[ (0:02:00) | 12:10:00 ] 4.444 5040c8bbe4b0b17447b54fbc | 0:00:00 23:59:00 0:20:00 | Pampulha
+Last POI: Pampulha
+Total Points: 47.328
+Ending Time: 12:30:00
+2.19327998161
+
+
+
+[ Graph loaded! ]
+[ V 80  E 9900 ]
+
+### Random Tour D ###
+[ Start Hour ] 8:00:00
+[ Final Hour ] 12:30:00
+
+Places (10)
+[ (0:00:00) | 8:00:00 ] 4.889 4b0fcf66f964a520206523e3 | 0:00:00 23:59:00 0:20:00 | Savassi
+[ (0:12:00) | 8:32:00 ] 4.737 4b5a3ad1f964a520fdb528e3 | 0:00:00 23:59:00 0:10:00 | Terminal Rodoviário Governador Israel Pinheiro
+[ (0:08:00) | 8:50:00 ] 4.432 4d0387a137036dcb7d8d0afb | 0:00:00 23:59:00 0:20:00 | Floresta
+[ (0:06:00) | 9:16:00 ] 4.251 4d614640196ba09317a52356 | 0:00:00 23:59:00 0:20:00 | Santa Tereza
+[ (0:06:00) | 9:42:00 ] 4.386 4d8bcd29cdfbb60c02125c07 | 0:00:00 23:59:00 0:20:00 | Santa Efigênia
+[ (0:10:00) | 10:12:00 ] 4.224 4cdbce75fc973704e33bd105 | 0:00:00 23:59:00 0:20:00 | Serra
+[ (0:09:00) | 10:41:00 ] 4.497 4bbe5b104e7bd13abfd49a7f | 0:00:00 23:59:00 0:20:00 | Rua do Amendoim
+[ (0:01:00) | 11:02:00 ] 5.764 4bdd677ed33f2d7facde8a3c | 8:00:00 17:00:00 0:25:00 | Parque das Mangabeiras
+[ (0:08:00) | 11:35:00 ] 4.284 4d8c7389788fb60c6bb26412 | 0:00:00 23:59:00 0:20:00 | Funcionários
+[ (0:06:00) | 12:01:00 ] 6.262 4baf5c0ef964a52022fa3be3 | 0:00:00 23:59:00 0:25:00 | Parque Municipal Américo Renné Giannetti
+Last POI: Parque Municipal Américo Renné Giannetti
+Total Points: 47.726
+Ending Time: 12:26:00
+4.36094284058
+
+
+
+[ Graph loaded! ]
+[ V 90  E 9900 ]
+
+### Random Tour D ###
+[ Start Hour ] 8:00:00
+[ Final Hour ] 12:30:00
+
+Places (11)
+[ (0:00:00) | 8:00:00 ] 4.737 4b5a3ad1f964a520fdb528e3 | 0:00:00 23:59:00 0:10:00 | Terminal Rodoviário Governador Israel Pinheiro
+[ (0:08:00) | 8:18:00 ] 4.215 4bbb9ae8e45295217ce954a4 | 3:45:00 23:45:00 0:10:00 | Conexão Aeroporto
+[ (0:05:00) | 8:33:00 ] 4.476 4cb58c28589f236a6cc9303d | 0:00:00 23:59:00 0:20:00 | Lourdes
+[ (0:07:00) | 9:00:00 ] 4.719 4ee94d2d02d5d0dbe4729dc8 | 0:00:00 23:59:00 0:20:00 | Centro
+[ (0:06:00) | 9:26:00 ] 4.432 4d0387a137036dcb7d8d0afb | 0:00:00 23:59:00 0:20:00 | Floresta
+[ (0:06:00) | 9:52:00 ] 4.251 4d614640196ba09317a52356 | 0:00:00 23:59:00 0:20:00 | Santa Tereza
+[ (0:06:00) | 10:18:00 ] 4.386 4d8bcd29cdfbb60c02125c07 | 0:00:00 23:59:00 0:20:00 | Santa Efigênia
+[ (0:10:00) | 10:48:00 ] 4.284 4d8c7389788fb60c6bb26412 | 0:00:00 23:59:00 0:20:00 | Funcionários
+[ (0:07:00) | 11:15:00 ] 4.224 4cdbce75fc973704e33bd105 | 0:00:00 23:59:00 0:20:00 | Serra
+[ (0:09:00) | 11:44:00 ] 4.497 4bbe5b104e7bd13abfd49a7f | 0:00:00 23:59:00 0:20:00 | Rua do Amendoim
+[ (0:01:00) | 12:05:00 ] 5.764 4bdd677ed33f2d7facde8a3c | 8:00:00 17:00:00 0:25:00 | Parque das Mangabeiras
+Last POI: Parque das Mangabeiras
+Total Points: 49.985
+Ending Time: 12:30:00
+5.42961883545
+
+
+
+[ Graph loaded! ]
+[ V 100  E 9900 ]
+
+### Random Tour D ###
+[ Start Hour ] 8:00:00
+[ Final Hour ] 12:30:00
+
+Places (11)
+[ (0:00:00) | 8:00:00 ] 4.737 4b5a3ad1f964a520fdb528e3 | 0:00:00 23:59:00 0:10:00 | Terminal Rodoviário Governador Israel Pinheiro
+[ (0:08:00) | 8:18:00 ] 4.215 4bbb9ae8e45295217ce954a4 | 3:45:00 23:45:00 0:10:00 | Conexão Aeroporto
+[ (0:05:00) | 8:33:00 ] 4.476 4cb58c28589f236a6cc9303d | 0:00:00 23:59:00 0:20:00 | Lourdes
+[ (0:05:00) | 8:58:00 ] 4.889 4b0fcf66f964a520206523e3 | 0:00:00 23:59:00 0:20:00 | Savassi
+[ (0:06:00) | 9:24:00 ] 4.226 4e31b04ab0fbb985a506887b | 0:00:00 23:59:00 0:20:00 | Santo Antônio
+[ (0:07:00) | 9:51:00 ] 4.144 4e4705cf62845e1d3c9a9015 | 0:00:00 23:59:00 0:20:00 | Sion
+[ (0:09:00) | 10:20:00 ] 4.497 4bbe5b104e7bd13abfd49a7f | 0:00:00 23:59:00 0:20:00 | Rua do Amendoim
+[ (0:01:00) | 10:41:00 ] 5.764 4bdd677ed33f2d7facde8a3c | 8:00:00 17:00:00 0:25:00 | Parque das Mangabeiras
+[ (0:08:00) | 11:14:00 ] 4.284 4d8c7389788fb60c6bb26412 | 0:00:00 23:59:00 0:20:00 | Funcionários
+[ (0:07:00) | 11:41:00 ] 4.386 4d8bcd29cdfbb60c02125c07 | 0:00:00 23:59:00 0:20:00 | Santa Efigênia
+[ (0:08:00) | 12:09:00 ] 4.251 4d614640196ba09317a52356 | 0:00:00 23:59:00 0:20:00 | Santa Tereza
+Last POI: Santa Tereza
+Total Points: 49.869
+Ending Time: 12:29:00
+6.51399302483
+
+
+

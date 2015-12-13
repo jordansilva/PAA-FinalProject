@@ -13,7 +13,7 @@ from datetime import timedelta, time
 
 class RandomTour:
 
-  PERCENTAGE_CUT = 0.2
+  PERCENTAGE_CUT = 0.5
 
   def __init__(self, graph):
     self.graph        = graph
@@ -28,9 +28,10 @@ class RandomTour:
     print '[ Final Hour ] %s\n' % self.period[1]
 
     #construct
-    pois = self.get_most_valuable_places(current = None, places = [])
+    pois = self.get_most_valuable_places(current = None, places = [], cut=self.PERCENTAGE_CUT)
     self.solve(places=pois, time = self.period[0])
     # self.solve(places=self.graph.vertices, time = self.period[0])
+
     self.print_solution(self.solution)
 
     return
@@ -73,12 +74,12 @@ class RandomTour:
 
         #explore children
         children = self.get_most_valuable_places(v, places)
-        self.solve(children, current_poi, points, places, current_time)
+        self.solve(places=children, poi=current_poi, sum_points=points, pois_visited=places, time=current_time)
 
     if ((self.solution is None) or (sum_points > self.solution[1]) or (sum_points == self.solution[1] and len(pois_visited) > len(self.solution[2]))):
       self.solution = (pois_visited[-1], sum_points, pois_visited, time)
 
-  def get_most_valuable_places(self, current, places):
+  def get_most_valuable_places(self, current, places, cut = None):
     tuples = []
     vertices = {}
     for v in self.graph.vertices:
@@ -89,7 +90,10 @@ class RandomTour:
       tuples.append((v.id, v.weight, v.time_spend))
 
     tuples.sort(key=lambda x:(x[2], -x[1]))
-    end = 2# int(math.ceil(len(tuples)*self.PERCENTAGE_CUT))
+
+    end = 1
+    if cut != None:
+      end = int(math.ceil(len(tuples)*cut))
 
     result = []
     for t in tuples[0:end]:
